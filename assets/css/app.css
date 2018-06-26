@@ -1,0 +1,19 @@
+:root {
+    --danger-color: #DA473C;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    position: relative;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
